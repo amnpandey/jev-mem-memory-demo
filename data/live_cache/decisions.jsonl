@@ -1,0 +1,39 @@
+{"event": "jev_fallback", "operation": "memory_type", "project": "Jev-Mem", "reason": "http_401"}
+{"controller": "magma", "event": "write_fallback", "project": "Jev-Mem"}
+{"event": "jev_fallback", "operation": "memory_type", "project": "Jev-Mem", "reason": "http_401"}
+{"controller": "magma", "event": "write_fallback", "project": "Jev-Mem"}
+{"event": "jev_fallback", "operation": "memory_type", "project": "Jev-Mem", "reason": "http_401"}
+{"controller": "magma", "event": "write_fallback", "project": "Jev-Mem"}
+{"event": "jev_fallback", "operation": "memory_type", "project": "Jev-Mem", "reason": "http_401"}
+{"controller": "magma", "event": "write_fallback", "project": "Jev-Mem"}
+{"event": "jev_fallback", "operation": "memory_type", "project": "Jev-Mem", "reason": "http_401"}
+{"controller": "magma", "event": "write_fallback", "project": "Jev-Mem"}
+{"event": "jev_fallback", "operation": "memory_type", "project": "Jev-Mem", "reason": "http_401"}
+{"controller": "magma", "event": "write_fallback", "project": "Jev-Mem"}
+{"event": "jev_fallback", "operation": "routing", "project": "Jev-Mem", "reason": "http_401"}
+{"event": "jev_fallback", "operation": "stopping", "project": "Jev-Mem", "reason": "http_401"}
+{"event": "jev_fallback", "operation": "traversal", "project": "Jev-Mem", "reason": "http_401"}
+{"event": "jev_fallback", "operation": "stopping", "project": "Jev-Mem", "reason": "http_401"}
+{"controller": "jev-mem", "decision_backend": "jev", "depth_limit": 3, "edges_examined": 68, "event": "query", "fallback_events": [{"operation": "routing", "reason": "http_401"}, {"operation": "stopping", "reason": "http_401"}, {"operation": "traversal", "reason": "http_401"}, {"operation": "stopping", "reason": "http_401"}], "graph_budget_used": {"causal": 0, "entity": 0, "semantic": 6, "temporal": 2}, "graph_budgets": {"causal": 7, "entity": 5, "semantic": 6, "temporal": 2}, "graph_needs": {"causal": 0.8, "entity": 0.6, "multi_hop_need": 0.5, "recency_importance": 0.2, "semantic": 0.7, "temporal": 0.2}, "jev_cache_hits": 0, "jev_calls": 4, "latency_seconds": 1.2860226251650602, "llm_calls": 0, "nodes_visited": 6, "project": "Jev-Mem", "query_id": "d25fab27605de00a", "retrieval_depth": 1, "retrieved_dia_ids": [], "stopping_decision": "frontier_exhausted", "stopping_scores": [], "top_k_returned": 5}
+{"event": "jev_fallback", "operation": "routing", "project": "Jev-Mem", "reason": "http_401"}
+{"event": "jev_fallback", "operation": "stopping", "project": "Jev-Mem", "reason": "http_401"}
+{"event": "jev_fallback", "operation": "traversal", "project": "Jev-Mem", "reason": "http_401"}
+{"event": "jev_fallback", "operation": "stopping", "project": "Jev-Mem", "reason": "http_401"}
+{"controller": "jev-mem", "decision_backend": "jev", "depth_limit": 3, "edges_examined": 68, "event": "query", "fallback_events": [{"operation": "routing", "reason": "http_401"}, {"operation": "stopping", "reason": "http_401"}, {"operation": "traversal", "reason": "http_401"}, {"operation": "stopping", "reason": "http_401"}], "graph_budget_used": {"causal": 0, "entity": 0, "semantic": 6, "temporal": 4}, "graph_budgets": {"causal": 2, "entity": 5, "semantic": 6, "temporal": 7}, "graph_needs": {"causal": 0.2, "entity": 0.6, "multi_hop_need": 0.5, "recency_importance": 0.2, "semantic": 0.7, "temporal": 0.8}, "jev_cache_hits": 0, "jev_calls": 4, "latency_seconds": 1.4194085001945496, "llm_calls": 0, "nodes_visited": 6, "project": "Jev-Mem", "query_id": "585581f69622ba17", "retrieval_depth": 1, "retrieved_dia_ids": [], "stopping_decision": "frontier_exhausted", "stopping_scores": [], "temporal_evidence_policy": "anchored-dialogue-v1", "top_k_returned": 5}
+{"event": "jev_fallback", "operation": "routing", "project": "Jev-Mem", "reason": "http_401"}
+{"event": "jev_fallback", "operation": "stopping", "project": "Jev-Mem", "reason": "http_401"}
+{"event": "jev_fallback", "operation": "traversal", "project": "Jev-Mem", "reason": "http_401"}
+{"event": "jev_fallback", "operation": "stopping", "project": "Jev-Mem", "reason": "http_401"}
+{"controller": "jev-mem", "decision_backend": "jev", "depth_limit": 3, "edges_examined": 68, "event": "query", "fallback_events": [{"operation": "routing", "reason": "http_401"}, {"operation": "stopping", "reason": "http_401"}, {"operation": "traversal", "reason": "http_401"}, {"operation": "stopping", "reason": "http_401"}], "graph_budget_used": {"causal": 0, "entity": 0, "semantic": 6, "temporal": 2}, "graph_budgets": {"causal": 7, "entity": 5, "semantic": 6, "temporal": 2}, "graph_needs": {"causal": 0.8, "entity": 0.6, "multi_hop_need": 0.5, "recency_importance": 0.2, "semantic": 0.7, "temporal": 0.2}, "jev_cache_hits": 0, "jev_calls": 4, "latency_seconds": 1.2623777079861611, "llm_calls": 0, "nodes_visited": 6, "project": "Jev-Mem", "query_id": "d25fab27605de00a", "retrieval_depth": 1, "retrieved_dia_ids": [], "stopping_decision": "frontier_exhausted", "stopping_scores": [], "top_k_returned": 5}
+{"event": "jev_fallback", "operation": "memory_type", "project": "Jev-Mem", "reason": "http_401"}
+{"controller": "magma", "event": "write_fallback", "project": "Jev-Mem"}
+{"event": "jev_fallback", "operation": "routing", "project": "Jev-Mem", "reason": "http_401"}
+{"event": "jev_fallback", "operation": "stopping", "project": "Jev-Mem", "reason": "http_401"}
+{"event": "jev_fallback", "operation": "traversal", "project": "Jev-Mem", "reason": "http_401"}
+{"event": "jev_fallback", "operation": "stopping", "project": "Jev-Mem", "reason": "http_401"}
+{"controller": "jev-mem", "decision_backend": "jev", "depth_limit": 3, "edges_examined": 84, "event": "query", "fallback_events": [{"operation": "routing", "reason": "http_401"}, {"operation": "stopping", "reason": "http_401"}, {"operation": "traversal", "reason": "http_401"}, {"operation": "stopping", "reason": "http_401"}], "graph_budget_used": {"causal": 0, "entity": 0, "semantic": 6, "temporal": 2}, "graph_budgets": {"causal": 7, "entity": 5, "semantic": 6, "temporal": 2}, "graph_needs": {"causal": 0.8, "entity": 0.6, "multi_hop_need": 0.5, "recency_importance": 0.2, "semantic": 0.7, "temporal": 0.2}, "jev_cache_hits": 0, "jev_calls": 4, "latency_seconds": 1.384555917000398, "llm_calls": 0, "nodes_visited": 7, "project": "Jev-Mem", "query_id": "d25fab27605de00a", "retrieval_depth": 1, "retrieved_dia_ids": [], "stopping_decision": "frontier_exhausted", "stopping_scores": [], "top_k_returned": 5}
+{"event": "jev_fallback", "operation": "routing", "project": "Jev-Mem", "reason": "http_401"}
+{"event": "jev_fallback", "operation": "stopping", "project": "Jev-Mem", "reason": "http_401"}
+{"event": "jev_fallback", "operation": "traversal", "project": "Jev-Mem", "reason": "http_401"}
+{"event": "jev_fallback", "operation": "stopping", "project": "Jev-Mem", "reason": "http_401"}
+{"controller": "jev-mem", "decision_backend": "jev", "depth_limit": 3, "edges_examined": 84, "event": "query", "fallback_events": [{"operation": "routing", "reason": "http_401"}, {"operation": "stopping", "reason": "http_401"}, {"operation": "traversal", "reason": "http_401"}, {"operation": "stopping", "reason": "http_401"}], "graph_budget_used": {"causal": 0, "entity": 0, "semantic": 6, "temporal": 6}, "graph_budgets": {"causal": 2, "entity": 5, "semantic": 6, "temporal": 7}, "graph_needs": {"causal": 0.2, "entity": 0.6, "multi_hop_need": 0.5, "recency_importance": 0.2, "semantic": 0.7, "temporal": 0.8}, "jev_cache_hits": 0, "jev_calls": 4, "latency_seconds": 1.3199202090036124, "llm_calls": 0, "nodes_visited": 7, "project": "Jev-Mem", "query_id": "83bc6bae0d7a7656", "retrieval_depth": 1, "retrieved_dia_ids": [], "stopping_decision": "frontier_exhausted", "stopping_scores": [], "temporal_evidence_policy": "anchored-dialogue-v1", "top_k_returned": 5}
