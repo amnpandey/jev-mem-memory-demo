@@ -48,17 +48,11 @@ you want to remove the local demo data.
 - Live mode calls Jev for memory decisions and OpenAI for embeddings and answer
   generation. It does not download local model weights.
 
-This is a hands-on architecture demo, not a benchmark. The offline mock mode does
-not reproduce the paper's reported scores.
+This is a hands-on architecture demo, not a benchmark.
 
 ## Project contents
 
 - `app.py` — Streamlit interface and Jev-Mem wiring.
-- `vendor/Jev-Mem/` — upstream Jev-Mem source and license files, copied from
-  [libingzheren/Jev-Mem](https://github.com/libingzheren/Jev-Mem), snapshot
-  `7ab0c73`.
+- `vendor/Jev-Mem/` — upstream Jev-Mem source.
 - `data/offline_cache/` and `data/live_cache/` — generated graph, vectors, and
   decision log (created at runtime and excluded from version control).
-
-The vendored source retains its upstream MIT license and notice. The demo itself
-is provided as a sample project.
